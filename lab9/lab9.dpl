@@ -1,0 +1,55 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=-188,-94,887,841,1.01526,0,25>
+  <Grid=10,10,0>
+  <DataSet=lab9.dat>
+  <DataDisplay=lab9.sch>
+  <OpenDisplay=1>
+  <Script=lab9.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 620 190 240 160 3 #c0c0c0 1 00 1 -1 0.5 1 1 -1 1 1 1 -1 1 1 315 0 225 "" "" "">
+	<"pIC.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 290 190 240 160 3 #c0c0c0 1 00 1 -1 0.5 1 1 -1 1 1 1 -1 1 1 315 0 225 "" "" "">
+	<"pIB.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect -40 190 240 160 3 #c0c0c0 1 00 1 0 2 10 1 -0.271546 0.2 0.271535 1 -1 1 1 315 0 225 "" "" "">
+	<"pIA.It" #0000ff 0 3 0 0 0>
+	  <Mkr 1.25628 -125 -202 3 0 0>
+  </Rect>
+  <Rect -40 400 240 160 3 #c0c0c0 1 00 1 0 2 10 1 -59.932 50 59.932 1 -1 1 1 315 0 225 "" "" "">
+	<"pVAN.Vt" #0000ff 0 3 0 0 0>
+	  <Mkr 0.854271 -130 -207 3 0 0>
+  </Rect>
+  <Rect 290 400 240 160 3 #c0c0c0 1 00 1 0 2 10 1 -0.271455 0.2 0.27101 1 -1 1 1 315 0 225 "" "" "">
+	<"pVBN.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 620 400 240 160 3 #c0c0c0 1 00 1 0 2 10 1 -0.271455 0.2 0.27101 1 -1 1 1 315 0 225 "" "" "">
+	<"pVCN.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect -40 610 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"pVAB.Vt" #0000ff 0 3 0 0 0>
+	  <Mkr 1.10553 -128 -211 3 0 0>
+  </Rect>
+  <Rect 290 610 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"pVBC.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 620 610 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"pVCA.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
